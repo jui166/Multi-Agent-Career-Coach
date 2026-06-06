@@ -35,3 +35,16 @@ Suggests portfolio projects aligned with career goals.
 ### Interview Agent
 
 Creates technical, behavioral, and project-based interview questions.
+## 📸 Project Screenshots
+
+### Dashboard Overview
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Career Analysis Dashboard
+
+![Career Analysis](docs/screenshots/agents_output.png)
+
+### AI Agent Workspace
+
+![Agents](docs/screenshots/agent_tabs.png)
